@@ -1,2 +1,6 @@
-# Grip_Task1_webdev
-This is a Basic Online Banking Website
+# GRIPFEB21
+- Task1: Basic-Banking-System
+  - Frontend : HTML, CSS, Javascript
+  - Backend : PHP
+  - Database : MySql
+  
